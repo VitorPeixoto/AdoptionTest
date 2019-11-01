@@ -1,0 +1,33 @@
+.main-card {
+	margin-top: 10vh;
+	margin-bottom: 10vh;
+}
+
+.main-card-content {
+	min-height: 80vh;
+}
+
+.user .btn-user {
+  font-size: 0.8rem;
+  border-radius: 10rem;
+  padding: 0.75rem 1rem;
+}
+
+.flex-c-sb {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.height-100p {
+	height: 100%;
+}
+
+.width-100p {
+	width: 100%;
+}
+
+.title {
+	margin-bottom: 0px;
+	text-align: center;
+}
